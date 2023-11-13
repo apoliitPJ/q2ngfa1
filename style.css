@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+section
+{
+    display: flex;
+    border: 1px black;
+    justify-content: space-around;
+    height: 50vh;
+    flex-wrap: wrap;
+}
+.navlinks
+{
+text-decoration: none;   
+padding-top: 1vw;
+padding-bottom: 1vw;
+}
+.sitename{
+    padding: 1vw;
+    padding-bottom: 1vw;
+}
+nav
+{
+    display: flex;
+    justify-content: space-evenly;
+    width: 85vw;
+   
+}
